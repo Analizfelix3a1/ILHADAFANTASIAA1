@@ -1,6 +1,6 @@
 body {
     background-color: #3357FF;
-    color: white;
+    color: 000066;
     font-family: "Open Sans", sans-serif;
     display: flex;
     justify-content: center;
@@ -11,7 +11,7 @@ body {
 
 button {
     background-color: #3357FF;
-    color: white;
+    color: 000066;
     font-family: "Open Sans", sans-serif;
 }
 
